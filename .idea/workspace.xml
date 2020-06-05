@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f590dba-96e1-4a27-aacb-316dcf3d7688" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Projects\udemy_selenium_tutorial" />
+        <option value="C:\Projects\udemy_selenium_tutorial\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yvv3o8pRGYDYbyZBx09AdnbWOz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Hello">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.udemy.Hello" />
+      <module name="udemy_selenium_tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.udemy.Demo" />
+      <module name="udemy_selenium_tutorial" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDriverChrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.udemy.TestDriverChrome" />
+      <module name="udemy_selenium_tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDriverFF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.udemy.TestDriverFF" />
+      <module name="udemy_selenium_tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.TestDriverChrome" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestDriverFF" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f590dba-96e1-4a27-aacb-316dcf3d7688" name="Default Changelist" comment="" />
+      <created>1583835685972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583835685972</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1591354027747</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591354027747</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="55" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1591351965061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="55" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1591351965061" />
+    <state x="513" y="80" width="790" height="568" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1583836918348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="80" width="790" height="568" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1583836918348" />
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1591354024827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591354024827" />
+    <state x="430" y="192" key="FileChooserDialogImpl" timestamp="1591353715364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="430" y="192" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591353715364" />
+    <state x="522" y="261" key="Github.ShareDialog" timestamp="1591353562341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="522" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1591353562341" />
+    <state x="447" y="71" key="Github.UntrackedFilesDialog" timestamp="1591353450159">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="71" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591353450159" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1591354135829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591354135829" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1591354135829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591354135829" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1591354135828">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591354135828" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1591354135829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591354135829" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1591354042134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591354042134" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1591354042134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1591354042134" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1591354042134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1591354042134" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1591354042134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591354042134" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1590775652524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590775652524" />
+    <state x="65" y="0" key="new project wizard" timestamp="1590775063041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590775063041" />
+    <state x="513" y="157" key="svn.repositoryBrowser" timestamp="1591353687716">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="157" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1591353687716" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/udemy_selenium_tutorial$Hello.ic" NAME="Hello Coverage Results" MODIFIED="1591353833363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.selenium.udemy.*</FILTER>
+    </SUITE>
+  </component>
+</project>
